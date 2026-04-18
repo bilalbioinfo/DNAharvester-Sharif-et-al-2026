@@ -17,7 +17,7 @@
 
 ### CONFIGURATION
 num_reads=100000
-damage=""
+damage="-damage 0.03,0.4,0.01,0.3"
 length_command="--loc 3.5 --scale 0.35 --minsize 25 --maxsize 100 -rl 150"
 gargammel_input="/cfs/klemming/projects/snic/sllstore2017093/dnaharvester/2_test_run_sim/1_data/gargammel_input_2/"
 output_dir="/cfs/klemming/projects/snic/sllstore2017093/dnaharvester/2_test_run_sim/1_data/simulated_bacterial_reads/"
